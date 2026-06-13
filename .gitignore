@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.cursor/
+.vscode/
+*.png
+.env
